@@ -22,6 +22,3 @@ print("State Sales Tax:    ","$%.2f" % itemStateSalesTax)
 print("County Sales Tax:   ","$%.2f" % itemCountySalesTax)
 print("Total Sales Tax:    ","$%.2f" % totalSalesTax)
 print("Total Sale:         ","$%.2f" % totalSales)
-
-
-
